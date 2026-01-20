@@ -2,6 +2,7 @@
 
 [商品分类-测试DEMO · 数据集](https://www.modelscope.cn/datasets/winwin_inc/product-classification-hiring-demo/files)
 
+train.jsonl上传不上去，请自行去官网下载
 
 
 这个文件是整个项目的核心，它实现了使用 BERT 模型对商品名称进行自动分类的完整训练流程。
@@ -71,5 +72,6 @@
 多分类任务
 
 conda终端中运行 web_api.py 与app_streamlit.py即可
+
 
 环境：全部使用默认下载的
